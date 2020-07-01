@@ -9,4 +9,4 @@ Authors who collaborated in this project are:
 - Hector G. Ceballos, Ph.D. *
 - Francisco Javier Cantu-Ortiz, Ph.D. *
 
-* Tecnologico de Monterrey, Mexico
+*Tecnologico de Monterrey, Mexico
