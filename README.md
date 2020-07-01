@@ -10,3 +10,5 @@ Authors who collaborated in this project are:
 - Francisco Javier Cantu-Ortiz, Ph.D. *
 
 *Tecnologico de Monterrey, Mexico
+
+Imperial College London model was used for obtaining the time-varying reproduction number (Rt) per state in Mexico. It's corresponding repository can be found in https://github.com/ImperialCollegeLondon/covid19model.
